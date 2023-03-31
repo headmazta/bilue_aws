@@ -1,0 +1,1 @@
+Here's my simple solution. Got stuck in Serverless framework version compatibility. I haven't added any authentication since I didn't have enough time to do so, but I would have used JWT authorization. Thank you.
